@@ -22,3 +22,5 @@ jupyter notebook
 
 ## License
 This course material is available under Creative Commons Attribution 4.0
+
+# PR Update: 2025-10-15 - refactor/update-2222
