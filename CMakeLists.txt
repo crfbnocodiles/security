@@ -57,3 +57,5 @@
 # PR Merge: 2025-10-15 - enhancement/merge-3852
 
 # PR Merge: 2025-10-15 - feature/merge-9134
+
+# PR Merge: 2025-10-15 - docs/merge-4280
